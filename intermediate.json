@@ -1,0 +1,99 @@
+[
+    {
+      "topic": "Reading a Stock Quote (Bid, Ask, Market Cap, 52-Week High/Low)",
+      "content": "A stock quote shows the current trading information of a company’s stock. Important parts include:\n- Bid Price: The price buyers are willing to pay.\n- Ask Price: The price sellers want.\n- Market Cap: Total value of a company (Share Price × Total Shares).\n- 52-Week High/Low: The highest and lowest price the stock has traded in the past year.\nUnderstanding these numbers helps investors analyze liquidity, demand, and valuation before making decisions.",
+      "reference_link": "https://www.investopedia.com/terms/q/quote.asp",
+      "video_link": "https://www.youtube.com/watch?v=Q1UyRUEL5lE"
+    },
+    {
+      "topic": "How Stock Trading Works (Order Matching, Clearing, Settlement)",
+      "content": "Stock trading happens electronically on exchanges. When you place a buy or sell order, the system matches it with an opposite order at the same price (Order Matching).\n- Clearing: Confirms both buyer and seller obligations.\n- Settlement: Transfer of money from buyer to seller and shares from seller to buyer.\nIn India, trades follow a T+1 settlement cycle, meaning you receive shares or money the next business day.",
+      "reference_link": "https://www.investopedia.com/terms/s/settlement.asp",
+      "video_link": "https://www.youtube.com/watch?v=byjJbH4M9Ic"
+    },
+    {
+      "topic": "IPOs (Initial Public Offerings – Applying & Allotment)",
+      "content": "An IPO is when a company offers its shares to the public for the first time. Investors can apply through their broker or bank using ASBA (Application Supported by Blocked Amount).\nAfter the IPO closes, shares are allotted based on demand and rules set by SEBI. If you get allotted, shares are credited to your Demat account before listing. If not, your money is unblocked/refunded.",
+      "reference_link": "https://www.investopedia.com/terms/i/ipo.asp",
+      "video_link": "https://www.youtube.com/watch?v=bb6_M_srMBk"
+    },
+    {
+      "topic": "Secondary Market Trading (Buying & Selling Shares)",
+      "content": "The secondary market is where investors trade shares after they are listed on an exchange. You place buy or sell orders through a broker’s platform. If your order matches with another investor’s order, the trade is executed.\nThis is the main market where daily stock price fluctuations happen. Unlike IPOs, here money moves between investors, not to the company.",
+      "reference_link": "https://www.investopedia.com/terms/s/secondarymarket.asp",
+      "video_link": "https://www.youtube.com/watch?v=xpLgIPTYwxw"
+    },
+    {
+      "topic": "Market Participants (Retail, HNIs, FIIs, DIIs)",
+      "content": "Different types of investors participate in the stock market:\n- Retail Investors: Small individual investors.\n- HNIs (High Net-worth Individuals): Wealthy individuals investing large sums.\n- FIIs (Foreign Institutional Investors): Foreign funds investing in Indian markets.\n- DIIs (Domestic Institutional Investors): Indian institutions like mutual funds, banks, and insurance companies.\nThe actions of FIIs and DIIs strongly influence stock market trends.",
+      "reference_link": "https://www.investopedia.com/terms/m/market-participant.asp",
+      "video_link": "https://www.youtube.com/watch?v=Q_jLGLV3pPI"
+    },
+    {
+      "topic": "Introduction to Fundamental Analysis (EPS, PE Ratio, Book Value, ROE)",
+      "content": "Fundamental analysis evaluates a company’s financial health and growth potential. Key metrics:\n- EPS (Earnings Per Share): Profit per share.\n- PE Ratio: Price compared to earnings, shows valuation.\n- Book Value: Net asset value per share.\n- ROE (Return on Equity): Profitability compared to shareholders’ equity.\nThese help investors decide if a stock is undervalued or overvalued.",
+      "reference_link": "https://www.investopedia.com/terms/f/fundamentalanalysis.asp",
+      "video_link": "https://www.youtube.com/watch?v=jH8kA8dZ3Zk"
+    },
+    {
+      "topic": "Understanding Company Financial Statements (Balance Sheet, P&L, Cash Flow)",
+      "content": "Financial statements show a company’s performance:\n- Balance Sheet: Assets, liabilities, and equity.\n- Profit & Loss (P&L): Income, expenses, and net profit.\n- Cash Flow Statement: Cash inflows and outflows.\nTogether, these reports help investors analyze stability, debt levels, profitability, and liquidity before investing.",
+      "reference_link": "https://www.investopedia.com/terms/f/financial-statements.asp",
+      "video_link": "https://www.youtube.com/watch?v=7Xy5d5bC2gw"
+    },
+    {
+      "topic": "Technical Analysis Basics (Charts, Candlesticks, Support & Resistance)",
+      "content": "Technical analysis studies past price movements to predict future trends. Tools include:\n- Line, Bar, and Candlestick Charts.\n- Support Level: A price where demand prevents further fall.\n- Resistance Level: A price where selling prevents further rise.\nThis method is used by traders for short-term decisions.",
+      "reference_link": "https://www.investopedia.com/terms/t/technicalanalysis.asp",
+      "video_link": "https://www.youtube.com/watch?v=UCLmBbm8BFI"
+    },
+    {
+      "topic": "Chart Patterns (Head & Shoulders, Double Top, Double Bottom)",
+      "content": "Chart patterns help identify market psychology and trend reversals:\n- Head & Shoulders: Signals a potential downtrend.\n- Double Top: Indicates price may fall after two failed attempts to rise.\n- Double Bottom: Suggests price may rise after two failed attempts to fall.\nThese patterns guide traders on entry and exit points.",
+      "reference_link": "https://www.investopedia.com/terms/c/chart-patterns.asp",
+      "video_link": "https://www.youtube.com/watch?v=OUaJY0f0FqM"
+    },
+    {
+      "topic": "Introduction to Indicators (Moving Averages, RSI, MACD)",
+      "content": "Indicators are tools in technical analysis:\n- Moving Averages: Smooth price trends to show direction.\n- RSI (Relative Strength Index): Identifies overbought/oversold conditions.\n- MACD (Moving Average Convergence Divergence): Tracks momentum and trend changes.\nThey are used with chart patterns for better accuracy in trading.",
+      "reference_link": "https://www.investopedia.com/terms/i/indicator.asp",
+      "video_link": "https://www.youtube.com/watch?v=6T70wwCRzLw"
+    },
+    {
+      "topic": "Trading vs Investing (Key Differences)",
+      "content": "Trading is short-term buying and selling to profit from price fluctuations. It requires continuous monitoring and involves higher risk.\nInvesting is long-term, focusing on company growth and wealth creation through compounding. It is less risky compared to trading. Both require knowledge and discipline, but beginners are advised to start with investing.",
+      "reference_link": "https://www.investopedia.com/terms/t/trading.asp",
+      "video_link": "https://www.youtube.com/watch?v=USdI5vTfd4I"
+    },
+    {
+      "topic": "Types of Traders (Scalpers, Day Traders, Swing Traders, Investors)",
+      "content": "There are different trading styles:\n- Scalpers: Quick trades for small profits.\n- Day Traders: Buy and sell within the same day.\n- Swing Traders: Hold for days/weeks to ride short trends.\n- Investors: Hold for years to benefit from growth.\nEach type needs different skills, time, and risk tolerance.",
+      "reference_link": "https://www.investopedia.com/terms/t/trader.asp",
+      "video_link": "https://www.youtube.com/watch?v=Q60l0QzG0hE"
+    },
+    {
+      "topic": "Market Timing (Bull vs Bear Markets, Corrections, Crashes)",
+      "content": "Market timing refers to entering or exiting investments based on market phases:\n- Bull Market: Prices rising steadily.\n- Bear Market: Prices falling for long periods.\n- Corrections: Short-term 10% fall from recent highs.\n- Crashes: Sudden, sharp declines in stock prices.\nTiming markets is difficult; long-term investing usually outperforms constant timing attempts.",
+      "reference_link": "https://www.investopedia.com/terms/m/markettiming.asp",
+      "video_link": "https://www.youtube.com/watch?v=hC6DuOgQqNY"
+    },
+    {
+      "topic": "Risk Management (Stop Loss, Position Sizing, Diversification)",
+      "content": "Risk management protects your capital:\n- Stop Loss: Automatically exits losing trades to limit loss.\n- Position Sizing: Investing only a fixed % of capital per trade.\n- Diversification: Spreading investments across sectors and asset classes to reduce risk.\nWithout risk management, even good strategies can fail.",
+      "reference_link": "https://www.investopedia.com/terms/r/riskmanagement.asp",
+      "video_link": "https://www.youtube.com/watch?v=n9y9p9D-CdA"
+    },
+    {
+      "topic": "Basics of Portfolio Management (Asset Allocation, Rebalancing)",
+      "content": "A portfolio is a collection of different investments. Portfolio management involves:\n- Asset Allocation: Dividing investments among stocks, bonds, gold, etc.\n- Rebalancing: Adjusting allocation periodically to maintain risk level.\nA balanced portfolio ensures steady growth with controlled risk.",
+      "reference_link": "https://www.investopedia.com/terms/p/portfoliomanagement.asp",
+      "video_link": "https://www.youtube.com/watch?v=j2PfM0hnNIM"
+    },
+    {
+      "topic": "Role of News & Economy in Stock Market Movements",
+      "content": "Stock prices are highly influenced by news and the economy:\n- Positive news (policy reforms, profits, global recovery) pushes prices up.\n- Negative news (inflation, war, recession) pulls prices down.\nEconomic factors like interest rates, inflation, GDP growth, and currency strength impact investor confidence and market direction.",
+      "reference_link": "https://www.investopedia.com/terms/n/news.asp",
+      "video_link": "https://www.youtube.com/watch?v=xApAi9yB4dA"
+    }
+  ]
+  

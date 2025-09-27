@@ -1,0 +1,123 @@
+[
+    {
+      "topic": "What is Stock Market?",
+      "content": "The stock market is a marketplace where people buy and sell ownership of companies, called shares. Imagine a company as a large cake, and each share is a slice of that cake. By buying a share, you own a part of the company. If the company grows, the value of your share increases. If it struggles, your share’s value may fall.\n\nThe stock market has two key purposes: 1) it helps companies raise money for growth by selling ownership to the public, and 2) it gives investors a chance to grow their wealth. In India, the two main stock exchanges are the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE).",
+      "reference_link": "https://www.investopedia.com/terms/s/stockmarket.asp",
+      "video_link": "https://www.youtube.com/watch?v=p7HKvqRI_Bo"
+    },
+    {
+      "topic": "Why Do Companies Issue Shares?",
+      "content": "Companies issue shares to raise money for various purposes such as expanding their business, paying off debt, or launching new projects. Instead of taking loans from banks and paying interest, companies sell a part of their ownership to investors.\n\nThe first time a company sells shares to the public, it is called an Initial Public Offering (IPO). Once listed, the shares can be freely traded on stock exchanges. Shareholders benefit through dividends (a portion of profits) and capital appreciation (rise in share price).",
+      "reference_link": "https://www.investopedia.com/terms/i/ipo.asp",
+      "video_link": "https://www.youtube.com/watch?v=bb6_M_srMBk"
+    },
+    {
+      "topic": "Primary Market vs Secondary Market",
+      "content": "The stock market has two parts: the primary market and the secondary market.\n\nThe primary market is where companies raise money by issuing new shares to the public through an IPO. Here, investors buy directly from the company.\n\nThe secondary market is where these shares are traded between investors after listing. Most trading happens in the secondary market, on exchanges like NSE and BSE. In this market, the company does not receive money—investors buy and sell from each other.",
+      "reference_link": "https://www.investopedia.com/terms/p/primarymarket.asp",
+      "video_link": "https://www.youtube.com/watch?v=vS6TvLk_o5Q"
+    },
+    {
+      "topic": "Stock Exchanges in India (NSE, BSE, MCX)",
+      "content": "In India, the main stock exchanges are the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE). Both exchanges provide platforms for buying and selling stocks. NSE’s benchmark index is Nifty 50, and BSE’s is Sensex.\n\nApart from these, there is the Multi Commodity Exchange (MCX), which is mainly used for trading commodities like gold, silver, oil, and agricultural products. Together, these exchanges provide transparency, liquidity, and safety for investors.",
+      "reference_link": "https://www1.nseindia.com/education/content/module_nse.htm",
+      "video_link": "https://www.youtube.com/watch?v=5Qp6GmXjVZw"
+    },
+    {
+      "topic": "What is SEBI? (Role of Market Regulator)",
+      "content": "SEBI (Securities and Exchange Board of India) is the regulator of the Indian stock market. It ensures fair practices, protects investors, and keeps the markets transparent.\n\nSEBI monitors stock exchanges, brokers, mutual funds, and listed companies. Its job is to prevent fraud, insider trading, and unfair practices. Thanks to SEBI, investors can trust that markets are regulated and safer.",
+      "reference_link": "https://www.sebi.gov.in/",
+      "video_link": "https://www.youtube.com/watch?v=QJ2s1lKc8hM"
+    },
+    {
+      "topic": "Brokers & Intermediaries (Full-service vs Discount Brokers)",
+      "content": "A stockbroker is an intermediary who helps investors buy and sell shares on exchanges. You cannot trade directly without a broker.\n\nThere are two types of brokers: Full-service brokers (like ICICI Direct, HDFC Securities) who provide research, advisory, and other services but charge higher fees; and Discount brokers (like Zerodha, Upstox) who charge low brokerage but provide only basic trading services.",
+      "reference_link": "https://www.investopedia.com/terms/s/stockbroker.asp",
+      "video_link": "https://www.youtube.com/watch?v=KxpjRFIuLxA"
+    },
+    {
+      "topic": "Demat & Trading Accounts (How to Open and Use)",
+      "content": "To invest in the stock market, you need two accounts: a Demat account and a Trading account. A Demat (Dematerialized) account stores your shares electronically, while a Trading account allows you to buy and sell shares.\n\nThese accounts are opened through brokers or banks, who act as Depository Participants. The process is simple and online, requiring KYC documents. Without these accounts, you cannot trade in the stock market.",
+      "reference_link": "https://www.investopedia.com/terms/d/demat-account.asp",
+      "video_link": "https://www.youtube.com/watch?v=fFjmfYJ7fC8"
+    },
+    {
+      "topic": "How Stock Prices Move (Demand, Supply & Market Sentiment)",
+      "content": "Stock prices are influenced by demand and supply. If more people want to buy a stock (demand), the price rises. If more people want to sell (supply), the price falls.\n\nApart from demand and supply, factors like company performance, economic news, government policies, and global events affect prices. Market sentiment (investor emotions such as greed or fear) also plays a major role.",
+      "reference_link": "https://www.investopedia.com/terms/s/supply-and-demand.asp",
+      "video_link": "https://www.youtube.com/watch?v=9f0t2xUmsJA"
+    },
+    {
+      "topic": "Introduction to Stock Indices (Sensex, Nifty, Sectoral Indices)",
+      "content": "A stock index measures the performance of a group of selected stocks. In India, the Sensex (30 top BSE companies) and Nifty 50 (50 top NSE companies) are the main indices. They show the overall market trend.\n\nThere are also sectoral indices like Bank Nifty, IT Index, and Pharma Index, which track the performance of specific industries. Indices act as indicators of the economy and help investors track market sentiment.",
+      "reference_link": "https://www.investopedia.com/terms/s/stockindex.asp",
+      "video_link": "https://www.youtube.com/watch?v=5Qp6GmXjVZw"
+    },
+    {
+      "topic": "Market Hours & Settlement Cycle (Pre-open, Normal, Post-market, T+1)",
+      "content": "The Indian stock market operates from Monday to Friday. Market hours are divided into:\n\n- Pre-open session: 9:00 AM – 9:15 AM (order collection)\n- Normal trading session: 9:15 AM – 3:30 PM\n- Post-market session: 3:40 PM – 4:00 PM (closing prices)\n\nThe settlement cycle in India follows T+1, meaning if you buy shares today (T), they will be credited to your Demat account the next business day (+1).",
+      "reference_link": "https://www1.nseindia.com/products/content/equities/equities/market_timing.htm",
+      "video_link": "https://www.youtube.com/watch?v=Id1BxN1Qzmw"
+    },
+    {
+      "topic": "Types of Stocks (Common, Preferred, Large/Mid/Small Cap, Growth vs Value)",
+      "content": "Stocks can be classified in different ways. Common stocks give voting rights and variable dividends, while preferred stocks provide fixed dividends but no voting rights.\n\nBy company size: Large-cap (stable, big companies), Mid-cap (medium-sized, growing companies), Small-cap (new or risky companies). By style: Growth stocks (high potential growth) and Value stocks (undervalued but fundamentally strong).",
+      "reference_link": "https://www.investopedia.com/terms/s/stock.asp",
+      "video_link": "https://www.youtube.com/watch?v=iGnRfvC3n8w"
+    },
+    {
+      "topic": "What are Blue-Chip Stocks?",
+      "content": "Blue-chip stocks belong to well-established, financially sound companies with a record of stability and reliability. They are leaders in their industries and usually pay regular dividends.\n\nExamples in India include Reliance Industries, Infosys, TCS, and HDFC Bank. Blue-chip stocks are considered safe long-term investments, though they may not give very high short-term returns.",
+      "reference_link": "https://www.investopedia.com/terms/b/bluechipstock.asp",
+      "video_link": "https://www.youtube.com/watch?v=tRekT-tLz-Y"
+    },
+    {
+      "topic": "Basic Terminologies (Bull Market, Bear Market, Market Cap, Liquidity)",
+      "content": "A Bull Market is when prices rise for a long period. A Bear Market is when prices fall continuously.\n\nMarket Cap means the total value of a company’s shares (Share Price × Total Shares). Liquidity means how easily an asset can be bought or sold without affecting its price. High liquidity means shares can be quickly traded; low liquidity means it is harder to buy/sell.",
+      "reference_link": "https://www.investopedia.com/investing/dictionary-of-investing-terms/",
+      "video_link": "https://www.youtube.com/watch?v=aEmNj4ytU9k"
+    },
+    {
+      "topic": "Difference Between Shares, Bonds & Mutual Funds",
+      "content": "Shares represent ownership in a company. If the company grows, shareholders benefit through higher share prices and dividends.\n\nBonds are loans given to companies or the government. Bondholders earn fixed interest but do not own the company.\n\nMutual Funds pool money from investors to invest in a mix of stocks, bonds, or other assets, managed by professionals. They are safer than directly investing in individual stocks for beginners.",
+      "reference_link": "https://www.investopedia.com/terms/s/share.asp",
+      "video_link": "https://www.youtube.com/watch?v=w2WgC2LwAqY"
+    },
+    {
+      "topic": "Dividends Explained (Dividend Yield, Payout Ratio)",
+      "content": "Dividends are a part of company profits given to shareholders. Dividend Yield shows how much dividend you earn relative to the share price. Payout Ratio shows what portion of profits a company gives as dividends.\n\nCompanies with stable earnings usually pay regular dividends. Some investors prefer dividend-paying stocks for steady income, while others focus on growth stocks.",
+      "reference_link": "https://www.investopedia.com/terms/d/dividend.asp",
+      "video_link": "https://www.youtube.com/watch?v=ZPAurY3ZuoQ"
+    },
+    {
+      "topic": "How Investors Make Money (Dividends, Capital Gains, Compounding)",
+      "content": "Investors earn money in three main ways:\n\n1. Dividends – Regular income from company profits.\n2. Capital Gains – Profit by selling shares at a higher price than bought.\n3. Compounding – Reinvesting returns to grow wealth faster over time.\n\nA disciplined approach and long-term mindset help investors maximize these benefits.",
+      "reference_link": "https://www.investopedia.com/terms/c/capitalgain.asp",
+      "video_link": "https://www.youtube.com/watch?v=To5vbSWrEEQ"
+    },
+    {
+      "topic": "Introduction to Risk & Reward in Stock Market",
+      "content": "Risk and reward go hand in hand in the stock market. Higher returns usually come with higher risks. Factors like company performance, economic policies, and global events affect stock prices.\n\nBeginners should understand diversification—spreading investments across different stocks and sectors—to reduce risk. Long-term investing usually balances risk better than short-term trading.",
+      "reference_link": "https://www.investopedia.com/terms/r/riskrewardratio.asp",
+      "video_link": "https://www.youtube.com/watch?v=Q7FjmdRZktA"
+    },
+    {
+      "topic": "Long-Term Investing vs Short-Term Trading",
+      "content": "Long-term investing means holding shares for years to benefit from company growth and compounding. It is usually less risky and builds wealth gradually.\n\nShort-term trading means buying and selling quickly to earn from price movements. While it may give fast profits, it carries high risk and requires active monitoring.",
+      "reference_link": "https://www.investopedia.com/terms/l/longterm.asp",
+      "video_link": "https://www.youtube.com/watch?v=USdI5vTfd4I"
+    },
+    {
+      "topic": "Basics of Order Types (Market Order, Limit Order, Stop Loss Order)",
+      "content": "When placing trades, you can use different types of orders:\n\n- Market Order: Executes immediately at current price.\n- Limit Order: Executes only at a set price or better.\n- Stop Loss Order: Automatically sells a stock when it falls below a set price, limiting your loss.\n\nUnderstanding order types helps manage risk and gives more control over trades.",
+      "reference_link": "https://www.investopedia.com/terms/l/limitorder.asp",
+      "video_link": "https://www.youtube.com/watch?v=dun8x4gOtHg"
+    },
+    {
+      "topic": "What is Intraday Trading? (Basics Only)",
+      "content": "Intraday trading means buying and selling stocks within the same day. Traders earn small profits from quick price movements. All positions must be squared off before the market closes.\n\nIt is risky and not recommended for beginners without proper knowledge and discipline. Intraday trading requires continuous monitoring and use of stop losses.",
+      "reference_link": "https://www.investopedia.com/terms/i/intraday-trading.asp",
+      "video_link": "https://www.youtube.com/watch?v=IXgl6X8xVXE"
+    }
+  ]
+  
